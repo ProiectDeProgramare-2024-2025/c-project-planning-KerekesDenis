@@ -1,0 +1,3 @@
+C:/Users/bazinga/Desktop/FoodApp/cmake-build-debug/CMakeFiles/FoodApp2.dir
+C:/Users/bazinga/Desktop/FoodApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bazinga/Desktop/FoodApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

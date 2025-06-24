@@ -1,0 +1,4 @@
+RESTAURANT:test
+ITEM:ciorba,10
+ITEM:spaghete,213
+ENDRESTAURANT
